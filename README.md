@@ -1,7 +1,7 @@
 <h1 align="center">TrashCanMod <br>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/trash-can-mod/files"><img src="https://cf.way2muchnoise.eu/versions/952939(c70039).svg" alt="Supported Versions"></a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/trash-can-mod/files"><img src="https://cf.way2muchnoise.eu/versions/952951(c70039).svg" alt="Supported Versions"></a>
   <a href="https://github.com/NeverSnows/TrashCanMod/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NeverSnows/TrashCanMod?style=flat&color=900c3f" alt="License"></a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/trash-can-mod"><img src="http://cf.way2muchnoise.eu/952939.svg" alt="CurseForge"></a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/trash-can-mod"><img src="http://cf.way2muchnoise.eu/952951.svg" alt="CurseForge"></a>
 </h1>
 <p>This mod aims to add a fun, interactive and functional trash can into minecraft.</p>
 <h3>Features</h3>

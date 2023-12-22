@@ -1,3 +1,4 @@
+<p align="center"><img src="https://github.com/NeverSnows/TrashCanMod/blob/main/logo.png" alt="Logo" width="200"></p>
 <h1 align="center">TrashCanMod <br>
   <a href="https://www.curseforge.com/minecraft/mc-mods/trash-can-mod/files"><img src="https://cf.way2muchnoise.eu/versions/952951(c70039).svg" alt="Supported Versions"></a>
   <a href="https://github.com/NeverSnows/TrashCanMod/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NeverSnows/TrashCanMod?style=flat&color=900c3f" alt="License"></a>

@@ -17,4 +17,4 @@
 
 <h1></h1>
 
-<h4 align="center">Find out more about the Trash Can Mod on my <a href="https://www.curseforge.com/minecraft/mc-mods/trash-can-mod">Curseforge</a> Page</h4>
+<h4 align="center">Find out more about the Trash Can Mod on my <a href="https://www.curseforge.com/minecraft/mc-mods/trash-can-mod">CurseForge</a> Page</h4>

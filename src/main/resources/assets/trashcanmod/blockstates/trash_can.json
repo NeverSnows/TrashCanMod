@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "facing=east,open=false": {
+      "model": "trashcanmod:block/trash_can",
+      "y": 0
+    },
+    "facing=north,open=false": {
+      "model": "trashcanmod:block/trash_can",
+      "y": 270
+    },
+    "facing=south,open=false": {
+      "model": "trashcanmod:block/trash_can",
+      "y": 90
+    },
+    "facing=west,open=false": {
+      "model": "trashcanmod:block/trash_can"
+    },
+    "open=true": {
+      "model": "trashcanmod:block/trash_can_open"
+    }
+  }
+}

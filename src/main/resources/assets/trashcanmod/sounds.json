@@ -1,0 +1,14 @@
+{
+  "trash_can_open": {
+    "subtitles": "sounds.trashcanmod.trash_can_open",
+    "sounds": [
+      "trashcanmod:block/trash_can/open"
+    ]
+  },
+  "trash_can_close": {
+    "subtitles": "sounds.trashcanmod.trash_can_close",
+    "sounds": [
+      "trashcanmod:block/trash_can/close"
+    ]
+  }
+}
